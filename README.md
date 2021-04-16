@@ -1,2 +1,2 @@
 # ChoateCoinSite
-Created by Sidharth Rao and
+Created by Sidharth Rao and Yunrui Ryan Yang
